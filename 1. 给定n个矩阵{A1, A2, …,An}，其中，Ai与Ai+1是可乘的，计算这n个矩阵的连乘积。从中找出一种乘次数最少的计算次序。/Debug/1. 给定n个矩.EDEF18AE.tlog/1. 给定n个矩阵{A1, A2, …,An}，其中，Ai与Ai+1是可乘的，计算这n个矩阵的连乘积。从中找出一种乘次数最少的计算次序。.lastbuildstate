@@ -1,2 +1,0 @@
-#TargetFrameworkVersion=v4.0:PlatformToolSet=v141:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=10.0.17134.0
-Debug|Win32|C:\Users\赵成\source\repos\1. 给定n个矩阵{A1, A2, …,An}，其中，Ai与Ai+1是可乘的，计算这n个矩阵的连乘积。从中找出一种乘次数最少的计算次序。\|
