@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1. 给定n个矩阵{A1, A2, …,An}，其中，Ai与Ai+1是可乘的，计算这n个矩阵的连乘积。从中找出一种乘次数最少的计算次序。", "1. 给定n个矩阵{A1, A2, …,An}，其中，Ai与Ai+1是可乘的，计算这n个矩阵的连乘积。从中找出一种乘次数最少的计算次序。.vcxproj", "{EDEF18AE-4497-4FC9-9F52-202393A206B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDEF18AE-4497-4FC9-9F52-202393A206B1}.Debug|x64.ActiveCfg = Debug|x64
+		{EDEF18AE-4497-4FC9-9F52-202393A206B1}.Debug|x64.Build.0 = Debug|x64
+		{EDEF18AE-4497-4FC9-9F52-202393A206B1}.Debug|x86.ActiveCfg = Debug|Win32
+		{EDEF18AE-4497-4FC9-9F52-202393A206B1}.Debug|x86.Build.0 = Debug|Win32
+		{EDEF18AE-4497-4FC9-9F52-202393A206B1}.Release|x64.ActiveCfg = Release|x64
+		{EDEF18AE-4497-4FC9-9F52-202393A206B1}.Release|x64.Build.0 = Release|x64
+		{EDEF18AE-4497-4FC9-9F52-202393A206B1}.Release|x86.ActiveCfg = Release|Win32
+		{EDEF18AE-4497-4FC9-9F52-202393A206B1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7189EE49-9EF9-4807-9CBB-573A549608A4}
+	EndGlobalSection
+EndGlobal

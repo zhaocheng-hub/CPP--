@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3. 给定无向连通图G和m种不同的颜色。用这些颜色为图G的各顶点着色，每个顶点着一种颜色。", "3. 给定无向连通图G和m种不同的颜色。用这些颜色为图G的各顶点着色，每个顶点着一种颜色。.vcxproj", "{6BACCB32-A35D-4D61-A92F-D377145D47E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BACCB32-A35D-4D61-A92F-D377145D47E0}.Debug|x64.ActiveCfg = Debug|x64
+		{6BACCB32-A35D-4D61-A92F-D377145D47E0}.Debug|x64.Build.0 = Debug|x64
+		{6BACCB32-A35D-4D61-A92F-D377145D47E0}.Debug|x86.ActiveCfg = Debug|Win32
+		{6BACCB32-A35D-4D61-A92F-D377145D47E0}.Debug|x86.Build.0 = Debug|Win32
+		{6BACCB32-A35D-4D61-A92F-D377145D47E0}.Release|x64.ActiveCfg = Release|x64
+		{6BACCB32-A35D-4D61-A92F-D377145D47E0}.Release|x64.Build.0 = Release|x64
+		{6BACCB32-A35D-4D61-A92F-D377145D47E0}.Release|x86.ActiveCfg = Release|Win32
+		{6BACCB32-A35D-4D61-A92F-D377145D47E0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E97ADB3-609C-4205-B479-B4832158A773}
+	EndGlobalSection
+EndGlobal

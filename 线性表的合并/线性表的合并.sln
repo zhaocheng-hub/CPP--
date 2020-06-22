@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "线性表的合并", "线性表的合并\线性表的合并.vcxproj", "{22B0E632-BF12-4733-8FDE-424C56D38C96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22B0E632-BF12-4733-8FDE-424C56D38C96}.Debug|x64.ActiveCfg = Debug|x64
+		{22B0E632-BF12-4733-8FDE-424C56D38C96}.Debug|x64.Build.0 = Debug|x64
+		{22B0E632-BF12-4733-8FDE-424C56D38C96}.Debug|x86.ActiveCfg = Debug|Win32
+		{22B0E632-BF12-4733-8FDE-424C56D38C96}.Debug|x86.Build.0 = Debug|Win32
+		{22B0E632-BF12-4733-8FDE-424C56D38C96}.Release|x64.ActiveCfg = Release|x64
+		{22B0E632-BF12-4733-8FDE-424C56D38C96}.Release|x64.Build.0 = Release|x64
+		{22B0E632-BF12-4733-8FDE-424C56D38C96}.Release|x86.ActiveCfg = Release|Win32
+		{22B0E632-BF12-4733-8FDE-424C56D38C96}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E910FD6-9D9F-4B89-9D48-F43027460A05}
+	EndGlobalSection
+EndGlobal
